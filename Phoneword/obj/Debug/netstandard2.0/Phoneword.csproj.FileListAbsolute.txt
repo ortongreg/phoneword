@@ -1,0 +1,12 @@
+/Users/gorton/LEARN/xamarin/Phoneword/Phoneword/bin/Debug/netstandard2.0/Phoneword.deps.json
+/Users/gorton/LEARN/xamarin/Phoneword/Phoneword/bin/Debug/netstandard2.0/Phoneword.dll
+/Users/gorton/LEARN/xamarin/Phoneword/Phoneword/bin/Debug/netstandard2.0/Phoneword.pdb
+/Users/gorton/LEARN/xamarin/Phoneword/Phoneword/obj/Debug/netstandard2.0/Phoneword.csprojAssemblyReference.cache
+/Users/gorton/LEARN/xamarin/Phoneword/Phoneword/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/gorton/LEARN/xamarin/Phoneword/Phoneword/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/gorton/LEARN/xamarin/Phoneword/Phoneword/obj/Debug/netstandard2.0/Phoneword.csproj.CoreCompileInputs.cache
+/Users/gorton/LEARN/xamarin/Phoneword/Phoneword/obj/Debug/netstandard2.0/Phoneword.AssemblyInfoInputs.cache
+/Users/gorton/LEARN/xamarin/Phoneword/Phoneword/obj/Debug/netstandard2.0/Phoneword.AssemblyInfo.cs
+/Users/gorton/LEARN/xamarin/Phoneword/Phoneword/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/gorton/LEARN/xamarin/Phoneword/Phoneword/obj/Debug/netstandard2.0/Phoneword.dll
+/Users/gorton/LEARN/xamarin/Phoneword/Phoneword/obj/Debug/netstandard2.0/Phoneword.pdb
